@@ -7,5 +7,10 @@ Hello new changes
 afeg
 shfkjs
 fdss
+<<<<<<< HEAD
  
 i added new line
+
+Nayana adding lines
+line1
+line2
